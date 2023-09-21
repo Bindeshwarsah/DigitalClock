@@ -5,7 +5,7 @@
 
     overflow: hidden;
     background-image: url("https://4kwallpapers.com/images/wallpapers/fluidic-glossy-gradient-background-purple-background-6016x3384-7641.jpg");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(15, 14, 14, 0.5);
